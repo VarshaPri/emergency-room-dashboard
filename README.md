@@ -1,30 +1,60 @@
-# Emergency-Room-AnalysisExcel
-This project is an interactive Emergency Room Data Dashboard, created in Microsoft Excel, designed to provide key hospital insights using real or sample data. It is ideal for data analysis, healthcare reporting, and decision-making support.
-# Features
-1)Tracks total number of patients
+# 🏥 Emergency Room Data Analytics Dashboard | Excel Project
 
-2)Calculates and visualizes average wait time
+## Project Overview
+Developed an interactive Emergency Room Data Dashboard using Microsoft Excel to deliver timely, actionable healthcare insights. The dashboard streamlines hospital reporting, resource planning, and operational decision-making through real-time analytics and intuitive visualizations.
+## My Role & Contribution
+**End-to-End solution design**: Led data preparation, modeling, and dashboard creation—from raw data to executive-ready reports.
 
-3)Displays patient admission status (admitted/not admitted)
+**Healthcare problem-solving**: Provided insights into patient flow, wait times, admissions, and departmental performance for hospital management.
 
-4)Shows age group and gender distribution
+**Hands-on Excel expertise**: Utilized advanced Excel features (Power Query, Power Pivot, DAX, charts, and slicers) for seamless analytics.
 
-5)Breaks down department referrals
+## Key Deliverables
 
-6)Calculates and displays percentage of patients seen within 30 minutes
 
-7)Interactive dashboard with charts and slicers
+### Patient Volume Monitoring
 
-# How It Works
+Track the total number of patients attending the emergency room each month, supporting demand analysis and staffing.
 
-1)Power Query is used to extract and transform data.
+### Wait Time Analysis
 
-2)Power Pivot creates relationships and adds DAX calculations.
+Calculate and visualize average wait times, highlighting operational efficiency and bottlenecks.
 
-3)Pivot Tables generate summary reports.
+### Admission Status Breakdown
 
-4)Dashboards and visuals are made using Excel chart tools for easy navigation and exploration.
-# Dadshboard
+Present the proportion of admitted vs. non-admitted patients, offering a snapshot of hospital utilization.
+
+### Demographic Insights
+
+Analyze patient age group and gender distributions to guide targeted resource allocation.
+
+### Departmental Referrals
+
+Display referrals to key departments (e.g., General Practice, Orthopedics) and those not referred, supporting process optimization.
+
+### Timeliness Metrics
+
+Quantify and visualize the percentage of patients attended within 30 minutes, driving quality-of-care improvements.
+
+### Interactive Dashboard
+
+Engaging visuals and Excel slicers enable users to slice the data by month and drill down into any KPI for customized insights.
+
+## How It Works
+**Power Query**: Automates and streamlines extraction, cleansing, and transformation of hospital data.
+
+**Power Pivot**: Builds data relationships and enhances calculations with DAX formulas.
+
+**Pivot Tables**: Summarizes and aggregates key metrics for reporting.
+
+**Excel Chart Tools/Slicers**: Crafts interactive dashboards for intuitive, user-driven exploration.
+## Screenshot
 <img width="1481" height="647" alt="image" src="https://github.com/user-attachments/assets/0e288c63-7456-4e90-bc36-187f4cb8eb21" />
 
+## Project Highlights
+Delivered an actionable, executive-ready tool for hospital performance monitoring and healthcare reporting.
+
+Enabled data-driven improvements in emergency room management, patient throughput, and departmental coordination.
+
+Scalable template for deployment in other healthcare units or for broader hospital operational analytics.
 
